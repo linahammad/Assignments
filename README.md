@@ -23,4 +23,7 @@ Implementing The Stack by overriding its own methods using C#.<br/>
 <br/>
 7- Palindrome:<br/>
 This class checks if the entered string Palindrome or not.<br/>
+<br/>
+8- Battleship:<br/>
+Battleship Game written in Python.<br/>
 
